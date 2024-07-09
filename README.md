@@ -1,2 +1,1 @@
-# .github
-Repo for org-level README
+README for organization - populate with links to NCEAS main github, logos, etc
