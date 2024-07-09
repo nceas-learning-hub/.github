@@ -1,1 +1,1 @@
-README for organization - populate with links to NCEAS main github, logos, etc
+Go to the profile/README.md to access and modify the organization-level README
