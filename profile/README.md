@@ -1,11 +1,5 @@
-|||---||| 3,9
+# Welcome to the NCEAS Learning Hub!
 
-*** promo
+<p><img align="left" src="LearningHubHexSketch.png"> This is the README for the organization... add logos, links to NCEAS, etc... adding more text here to see if the text wrap works properly! not sure how much text we need for line breaks, so I'll just keep putting more and more and more and more
+</p>
 
-![](LearningHubHexSketch.png)
-
-*** promo
-
-This is the README for the organization... add logos, links to NCEAS, etc...
-
-|||---|||
